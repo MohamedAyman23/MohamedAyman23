@@ -3,7 +3,7 @@
 - I am interested in Java programming
 - I learned core Java, Datastucure, Algorithms
 ## Embedded System
--👀 I’m interested in Embedded Systems 
+- 👀 I’m interested in Embedded Systems
 - 🌱 I learned c/c++ programming language /linux / Embedded c / Interfacing Pic18
 | Software Testing | 
 ## Software Testing
