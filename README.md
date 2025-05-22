@@ -4,8 +4,7 @@
 - I learned core Java, Datastucure, Algorithms
 ## Embedded System
 - 👀 I’m interested in Embedded Systems
-- 🌱 I learned c/c++ programming language /linux / Embedded c / Interfacing Pic18
-| Software Testing | 
+- 🌱 I learned c/c++ programming language /linux / Embedded c / Interfacing Pic18 
 ## Software Testing
 -   Manual(web & Mobile), API Testing
 -   I learned ISTQB fv4
